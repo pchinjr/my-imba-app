@@ -1,0 +1,17 @@
+{
+  "name": "my-imba-app",
+  "scripts": {
+    "start": "imba -w server.imba",
+    "build": "imba build server.imba"
+  },
+  "dependencies": {
+    "express": "^4.17.1",
+    "imba": "^2.0.0-alpha.199"
+  },
+  "repository": "pchinjr/my-imba-app",
+  "description": "test-imba-app",
+  "version": "1.0.0",
+  "homepage": "https://github.com/pchinjr/my-imba-app",
+  "author": "Author Name (https://github.com/pchinjr)",
+  "license": "ISC"
+}
