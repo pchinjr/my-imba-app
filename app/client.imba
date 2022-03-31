@@ -1,5 +1,3 @@
-import About from './About';
-
 global css html
 	ff:mono
 
