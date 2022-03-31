@@ -2,7 +2,7 @@
   "name": "my-imba-app",
   "scripts": {
     "start": "imba -w server.imba",
-    "build": "imba build server.imba"
+    "build": "imba build -P server.imba"
   },
   "dependencies": {
     "express": "^4.17.1",
